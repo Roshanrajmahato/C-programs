@@ -1,3 +1,4 @@
+// AVARAGE MARKS OF THREE SUBJECT AND ITS DESCRIPTION  
 #include<stdio.h>
 int main()
 {                   

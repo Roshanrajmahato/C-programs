@@ -1,3 +1,4 @@
+// IT IS THE ODD EVEN PROGRAM  
 #include<stdio.h>
 int main()
 {

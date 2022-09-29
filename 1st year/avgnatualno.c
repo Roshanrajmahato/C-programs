@@ -1,3 +1,4 @@
+// avrage of n number
 #include<stdio.h>
 int main()
 {

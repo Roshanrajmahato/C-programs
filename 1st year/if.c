@@ -9,5 +9,5 @@ int main() {
     if (number < 0) {
         printf("You entered a negative number%d.\n", number);
     }
-    Return0;
+    Return(0);
 }   
