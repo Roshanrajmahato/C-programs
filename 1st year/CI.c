@@ -1,7 +1,7 @@
 // COMPOUND INTEREST 
 #include<stdio.h>
 #include<math.h>
-int main ()
+int main()
 {
 
     int p,r,t,x,ci;
